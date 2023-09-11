@@ -1,0 +1,63 @@
+[
+                              {
+                                "name": "Glass Water Bottle",
+                                "description": "A reusable glass water bottle with a bamboo lid.",
+                                "imageURL": "https://example.com/bottle1.jpg",
+                                "price":100
+                              },
+                              {
+                                "name": "Stainless Steel Thermos",
+                                "description": "A stainless steel thermos for hot and cold beverages.",
+                                "imageURL": "https://example.com/bottle2.jpg",
+                                "price":100
+                              },
+                              {
+                                "name": "Plastic Sports Bottle",
+                                "description": "A lightweight plastic sports bottle with a flip-top cap.",
+                                "imageURL": "https://example.com/bottle3.jpg",
+                                "price":140
+                              },
+                              {
+                                "name": "Aluminum Travel Flask",
+                                "description": "An aluminum travel flask with a screw-on lid.",
+                                "imageURL": "https://example.com/bottle4.jpg",
+                                "price":300
+                              },
+                              {
+                                "name": "Copper Water Bottle",
+                                "description": "A copper water bottle with intricate design patterns.",
+                                "imageURL": "https://example.com/bottle5.jpg",
+                                "price":105
+                              },
+                              {
+                                "name": "Insulated Glass Bottle",
+                                "description": "A double-walled insulated glass bottle for hot and cold drinks.",
+                                "imageURL": "https://example.com/bottle6.jpg",
+                                "price":400
+                              },
+                              {
+                                "name": "BPA-Free Plastic Bottle",
+                                "description": "A BPA-free plastic bottle with a wide-mouth opening.",
+                                "imageURL": "https://example.com/bottle7.jpg",
+                                "price":100
+                              },
+                              {
+                                "name": "Hydration Pack Bladder",
+                                "description": "A hydration pack bladder for outdoor activities and backpacks.",
+                                "imageURL": "https://example.com/bottle8.jpg",
+                                "price":170
+                              },
+                              {
+                                "name": "Metallic Stainless Steel Bottle",
+                                "description": "A metallic stainless steel bottle with a matte finish.",
+                                "imageURL": "https://example.com/bottle9.jpg",
+                                "price":102
+                              },
+                              {
+                                "name": "Glass Milk Bottle",
+                                "description": "A classic glass milk bottle with a screw-on cap.",
+                                "imageURL": "https://example.com/bottle10.jpg",
+                                "price":100
+                              }
+                            ]
+                            
